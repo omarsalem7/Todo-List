@@ -1,0 +1,11 @@
+.todoItems {
+  margin-top: 100px;
+}
+
+.myTable {
+  font-family: arial, sans-serif;
+  border-collapse: collapse;
+  width: 35%;
+  margin: auto;
+  margin-top: 20px;
+}
