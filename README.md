@@ -11,3 +11,5 @@ The todo list has some features like:
 ## Project Setup
 * install all project dependencies with `npm install`
 * start the development server with `npm start`
+
+omar
